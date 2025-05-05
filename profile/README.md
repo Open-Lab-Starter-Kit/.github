@@ -1,3 +1,5 @@
+![OLSK](../res/img/olsk-repo-banner.jpg)
+
 # OpenLab Starter Kit (OLSK)
 
 A global approach to local production.
@@ -8,14 +10,14 @@ Setting up a digital fabrication lab often involves high costs and imported mach
 
 ## Goals
 
-- Develop open source manufacturing machines  
-- Build labs using only open source hardware and software  
-- Document every step of the build and use process  
-- Share knowledge about how machines work  
-- Bridge the gap between open and commercial machines  
-- Lower the entry point for digital manufacturing  
-- Enable people to replicate and modify machines  
-- Support local production and circular practices in Fab Cities  
+- Develop open source manufacturing machines
+- Build labs using only open source hardware and software
+- Document every step of the build and use process
+- Share knowledge about how machines work
+- Bridge the gap between open and commercial machines
+- Lower the entry point for digital manufacturing
+- Enable people to replicate and modify machines
+- Support local production and circular practices in Fab Cities
 
 ## Get Involved
 
